@@ -1,30 +1,29 @@
 <div align="center">
   <h3>Hi there! I'm Dina </h3>
 
-<!--   <p align="center">
-    <a target="_blank" href="https://medium.com/@zoispag">Medium</a> •
+ <p align="center">
+<!--      <a target="_blank" href="https://www.linkedin.com/in/dina-dede/">Linkedin</a> •
     <a target="_blank" href="https://stackoverflow.com/users/11642286/zoispag">Stack Overflow</a> •
-    <a target="_blank" href="https://twitter.com/zoispag">Twitter</a>
-  </p> -->
+    <a target="_blank" href="https://twitter.com/zoispag">Twitter</a> -->
+ </p> 
 
   <hr />
   
 <p align="center">
     <p>&nbsp;&nbsp;Based in London </p>
     <p>&nbsp;&nbsp;Tech Enthusiast &bull; &nbsp;&nbsp;Basketball Fanatic &bull; &nbsp;&nbsp;AI/ML Cloud Engineer </p>
-<!--     </p>🐶&nbsp;&nbsp;Hooman to a Malchi <strong>(Loki)</strong> & 🦜&nbsp;&nbsp;2 Lovebirds <strong>(Ben & Jerry)</strong></p> -->
-  </p>
+ </p>
 
   <hr />
 </div>
 
-<!-- <a href="https://github.com/dina-dede">
+ <a href="https://github.com/dina-dede">
   <div>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zoispag&show_icons=true&theme=vue-dark&count_private=true"/>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=zoispag&layout=compact&theme=vue-dark"/>
-  </div> -->
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dina-dede&show_icons=true&theme=vue-dark&count_private=true"/>
+  <!--  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=zoispag&layout=compact&theme=vue-dark"/> -->
+  </div> 
 
   <div align="center">
-    <img src="https://raw.githubusercontent.com/zoispag/zoispag/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/dina-dede/dina-dede/output/github-contribution-grid-snake.svg"/>
   </div>
 </a>
