@@ -24,6 +24,6 @@
   </div> 
 
   <div align="center">
-    <img src="https://raw.githubusercontent.com/dina-dede/dina-dede/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/zoispag/dina-dede/output/github-contribution-grid-snake.svg"/>
   </div>
 </a>
