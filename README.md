@@ -19,8 +19,7 @@
 
  <a href="https://github.com/dina-dede">
   <div>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zoispag&show_icons=true&theme=vue-dark&count_private=true"/>
-  <!--  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=zoispag&layout=compact&theme=vue-dark"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dina-dede&show_icons=true&theme=vue-dark&count_private=true"/>
   </div> 
 
   <div align="center">
