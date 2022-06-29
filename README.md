@@ -10,8 +10,8 @@
   <hr />
   
 <p align="center">
-    <p>🇬🇷&nbsp;&nbsp;Greek &bull; 🇳🇱&nbsp;&nbsp;Based in London </p>
-    <p>&nbsp;&nbsp;Tech Enthusiast &bull; &nbsp;&nbsp;Basketball Fanatic &bull; &nbsp;&nbsp;AI/ML Cloud Engineer; </p>
+    <p>&nbsp;&nbsp;Based in London </p>
+    <p>&nbsp;&nbsp;Tech Enthusiast &bull; &nbsp;&nbsp;Basketball Fanatic &bull; &nbsp;&nbsp;AI/ML Cloud Engineer </p>
 <!--     </p>🐶&nbsp;&nbsp;Hooman to a Malchi <strong>(Loki)</strong> & 🦜&nbsp;&nbsp;2 Lovebirds <strong>(Ben & Jerry)</strong></p> -->
   </p>
 
