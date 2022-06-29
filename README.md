@@ -18,11 +18,11 @@
   <hr />
 </div>
 
-<a href="https://github.com/dina-dede">
+<!-- <a href="https://github.com/dina-dede">
   <div>
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zoispag&show_icons=true&theme=vue-dark&count_private=true"/>
     <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=zoispag&layout=compact&theme=vue-dark"/>
-  </div>
+  </div> -->
 
   <div align="center">
     <img src="https://raw.githubusercontent.com/zoispag/zoispag/output/github-contribution-grid-snake.svg"/>
