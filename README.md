@@ -10,7 +10,7 @@
   <hr />
   
 <p align="center">
-    <p>&nbsp;&nbsp;Based in London </p>
+    <p>&nbsp;&nbsp;Based in London &bull; Microsoft Employee </p>
     <p>&nbsp;&nbsp;Tech Enthusiast &bull; &nbsp;&nbsp;Basketball Fanatic &bull; &nbsp;&nbsp;AI/ML Cloud Engineer </p>
  </p>
 
