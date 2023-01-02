@@ -1,5 +1,5 @@
-<div align="center">
-  <h3>Hi there! I'm Dina </h3>
+<div align="left">
+  <h2>Hi there! I'm Dina </h2>
   
   <img src="https://media.tenor.com/xwARyAaoSJEAAAAC/all-good-its-all-good.gif" height="200" width="300" align="right"></img>
 
