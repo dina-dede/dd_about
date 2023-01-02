@@ -14,7 +14,7 @@
 <p align="center">
     <p>&nbsp;&nbsp;Based in London &bull; Microsoft Employee </p>
     <p>&nbsp;&nbsp;Tech Enthusiast &bull; &nbsp;&nbsp;Basketball Fanatic &bull; &nbsp;&nbsp;AI/ML Cloud Engineer </p>
-    <p>&nbsp;&nbsp;Sommelier &bull; &nbsp;&nbsp;Kickboxing </p>
+    <p>&nbsp;&nbsp;Sommelier &bull; &nbsp;&nbsp;MMA </p>
  </p>
 
   <hr />
