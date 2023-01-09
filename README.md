@@ -4,9 +4,6 @@
   <img src="https://media.tenor.com/xwARyAaoSJEAAAAC/all-good-its-all-good.gif" height="200" width="300" align="right"></img>
 
  <p align="center">
-<!--      <a target="_blank" href="https://www.linkedin.com/in/dina-dede/">Linkedin</a> •
-    <a target="_blank" href="https://stackoverflow.com/users/11642286/zoispag">Stack Overflow</a> •
-    <a target="_blank" href="https://twitter.com/zoispag">Twitter</a> -->
  </p> 
 
   <hr />
